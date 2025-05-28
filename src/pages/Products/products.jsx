@@ -1,5 +1,7 @@
+import Dashbord from "../../components/layouts/Dashboard/dashboard";
+
 const Products = () => {
-  return <div>Products</div>;
+  return <div></div>;
 };
 
 export default Products;

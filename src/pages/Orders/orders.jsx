@@ -1,5 +1,10 @@
-const Orders = () => {
-  return <div>Orders</div>;
+import Orders from "../../components/layouts/Dashboard/orders";
+
+
+const Order = () => {
+  return <div>
+    <Orders/>
+  </div>;
 };
 
-export default Orders;
+export default Order;

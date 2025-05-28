@@ -1,5 +1,7 @@
+import Dashbord from "../../components/layouts/Dashboard/dashboard";
+
 const Other = () => {
-  return <div>Other</div>;
+  return <div></div>;
 };
 
 export default Other;
